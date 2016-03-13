@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name" : "Darth Maul",
+        "allegiance" : "Sith"
+    },
+    {
+        "id": 2,
+        "name" : "Darth Sidious",
+        "allegiance" : "Sith"
+    },
+    {
+        "id": 3,
+        "name" : "Luke Skywalker",
+        "allegiance" : "Light"
+    }
+]
